@@ -70,7 +70,7 @@ Note: Update the file and folder names above to match your actual repository.
 
 📷 Dashboard Preview
 
-
+https://github.com/AkashAnalytix/ecommerce-dashboard/blob/main/e-commerce%20dashboard.png
 
 "Amazon Sales Dashboard" (dashboard.png)
 
